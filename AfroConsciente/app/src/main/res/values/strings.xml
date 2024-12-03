@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AfroConsciente</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Profile</string>
+    <string name="calendario">Calendario</string>
+    <string name="eventos_culturais">Eventos Culturais</string>
+    <string name="do_m_s">Do Mês</string>
+    <string name="inscrever_se">INSCREVER-SE</string>
+    <string name="calendario_de_eventos">Calendario de Eventos</string>
+    <string name="novidades">Novidades</string>
+    <string name="livros">Livros</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+</resources>

@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         binding.textInputLayout.setEndIconOnClickListener {
             val texto = binding.editTextInput.text.toString()
             val textoTraduzido = traduzirPortunhol(texto)
-            binding.textViewOutput.text = textoTraduzido
+            binding.textViewOutput.text = textoTraduzido    
         }
     }
 
